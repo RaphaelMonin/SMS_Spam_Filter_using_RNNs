@@ -1,4 +1,4 @@
-# SMS spams filter using RNNs
+# SMS spam filter using RNNs
 
 Using a dataset of 5572 SMSs labeled spam or ham.
 
