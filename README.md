@@ -1,5 +1,7 @@
 # SMS spam filter using RNNs
 
+### Dataset
+
 Using a dataset of 5572 SMSs labeled spam or ham.
 
 I compared the performances of four recurrent neural networks to filter spams.
