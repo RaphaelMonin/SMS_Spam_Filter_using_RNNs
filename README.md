@@ -22,6 +22,12 @@ SMS Spam Collection Dataset from UCI Machine Learning: https://www.kaggle.com/uc
 
 It contains one set of SMS messages in English of 5,574 messages, labeled ham (legitimate) or spam.
 
+### Dependencies
+
+- pandas
+- matplotlib
+- tensorflow
+
 ### Usage
 
 Run this using jupyter notebook. Just type jupyter notebook in the main directory and the code will pop up in a browser window.
